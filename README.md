@@ -25,7 +25,7 @@ https://flickr-search-ogihara.herokuapp.com/
 
 ***
 
-![Flickr-Search トップページ](https://i.gyazo.com/fe247731bb9e234e6d727c5859961ac7.png)
+![Flickr-Search トップページ](https://i.gyazo.com/0f0ba2c0ca47e06e0d91ba4eff51a832.png)
 
 ***
 
