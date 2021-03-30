@@ -23,6 +23,8 @@ https://flickr-search-ogihara.herokuapp.com/
 バージョン管理 : Git
 インフラ : heroku
 
+***
+
 ![Flickr-Search トップページ](https://i.gyazo.com/fe247731bb9e234e6d727c5859961ac7.png)
 
 ***
