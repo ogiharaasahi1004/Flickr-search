@@ -25,9 +25,15 @@ https://flickr-search-ogihara.herokuapp.com/
 
 ![Flickr-Search トップページ](https://i.gyazo.com/fe247731bb9e234e6d727c5859961ac7.png)
 
+***
+
 ![Flickr-Search 検索結果ページ（子猫）](https://i.gyazo.com/1dd7de102e2a1e55164c3d3d7d2e7c22.png)
 
+***
+
 ![Flickr-Search 検索結果ページ（子犬）](https://i.gyazo.com/0d16b4d590b4fd17a9f71158a60d7909.png)
+
+***
 
 画像クリック後、新規タブでFlickrの画像ページへリダイレクトする。
 
