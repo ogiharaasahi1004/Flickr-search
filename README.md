@@ -24,15 +24,24 @@ https://flickr-search-ogihara.herokuapp.com/
 インフラ : heroku
 
 ***
+# 実装した各種機能
 
+『検索関連』
+- 画像検索機能
+
+***
+
+## トップページ
 ![Flickr-Search トップページ](https://i.gyazo.com/0f0ba2c0ca47e06e0d91ba4eff51a832.png)
 
 ***
 
+## 検索結果ページ（子猫）
 ![Flickr-Search 検索結果ページ（子猫）](https://i.gyazo.com/1dd7de102e2a1e55164c3d3d7d2e7c22.png)
 
 ***
 
+## 検索結果ページ（子犬）
 ![Flickr-Search 検索結果ページ（子犬）](https://i.gyazo.com/0d16b4d590b4fd17a9f71158a60d7909.png)
 
 ***
