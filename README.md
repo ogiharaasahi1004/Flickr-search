@@ -24,8 +24,8 @@ https://flickr-search-ogihara.herokuapp.com/
 - HTML/CSS
 - Javascript
 - Flickr-API
-バージョン管理 : Git
-インフラ : heroku
+- バージョン管理 : Git
+- インフラ : heroku
 
 ***
 # 実装した各種機能
